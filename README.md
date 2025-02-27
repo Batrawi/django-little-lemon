@@ -82,4 +82,4 @@ Little-Lemon/
 
 ## ✨ Credits
 Developed with ❤️ by [Mohammed Albattrawi](https://github.com/batrawi)  
-Inspired by the [Meta Backend Developer Course](https://www.coursera.org/professional-certificates/meta-backend-developer)
+Inspired by the [Meta Backend Developer Course](https://www.coursera.org/learn/django-web-framework)
