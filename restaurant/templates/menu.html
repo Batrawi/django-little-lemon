@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block content %}
+<h1>Menu</h1>
+<!--Begin col-->
+<div class="column">
+  {% for item in menu %}
+  <p>
+    {% if item.pk %}
+      <a href="{% url 'menu_item' pk=item.pk %}"> {{ item.name }} </a>
+      <span class="menu-price"> ${{ item.price }}.00 </span>
+    {% else %}
+      <span>Missing Menu Item ID: {{ item.name }}</span>
+    {% endif %}
+  </p>
+  {% endfor %}
+</div>
+{% endblock %}
