@@ -18,10 +18,10 @@ Little Lemon is a Django-based web application that allows restaurants to manage
 
 ## 📸 Screenshots
 ### 🏠 **Home Page**
-![Home Page](https://via.placeholder.com/800x400.png?text=Home+Page+Screenshot)
+![Home page](https://github.com/GergesHany/Little-Lemon/assets/105644935/ed14c250-a77c-4f11-bd07-c7aeb5898210)
 
 ### 📜 **Menu Page**
-![Menu Page](https://via.placeholder.com/800x400.png?text=Menu+Page+Screenshot)
+![Screenshot from 2023-11-18 20-13-56](https://github.com/GergesHany/Little-Lemon/assets/105644935/655d249c-ab6b-42dc-9b09-a0e921144518)
 
 ---
 
