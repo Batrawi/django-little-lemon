@@ -2,7 +2,6 @@
 
 [![Django](https://img.shields.io/badge/Django-4.2-green.svg)](https://www.djangoproject.com/)
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Little Lemon is a Django-based web application that allows restaurants to manage their menus and display them to customers. The project includes an **admin panel**, **dynamic menu listings**, and **user-friendly navigation**.
 
